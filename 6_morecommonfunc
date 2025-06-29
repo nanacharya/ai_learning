@@ -1,0 +1,12 @@
+import os
+import sys
+
+
+print(os.getcwd())
+
+# os.mkdir("test")
+
+# os.remove('abcd.txt')
+
+print(sys.argv)
+print(sys.version)
