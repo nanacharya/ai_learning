@@ -7,3 +7,7 @@
 
 
 /usr/local/bin/python3 -m pip install pyplot --break-system-packages
+
+langchain
+OpenAI
+Ollama 
